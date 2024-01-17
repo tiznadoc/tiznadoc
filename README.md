@@ -1,43 +1,55 @@
 <h1 align="center">Hi, I'm Victor Tiznado Candia 👋</h1>
-<h2 align="center">Frontend Developer from Pichilemu, Chile.</h2>
+<h2 align="center">a Frontend Developer from Pichilemu, Chile.</h2>
 
 <div align="center">
 <img width="45px" 
     height="45px" 
-    style="margin: 5px"
+    style="margin: 7px"
     src="./assets/html5.svg"> &nbsp;
 <img width="45px" 
     height="45px" 
-    style="margin: 5px"
+    style="margin: 7px"
     src="./assets/css.svg"> &nbsp;
 <img width="45px" 
     height="45px" 
-    style="margin: 5px"
+    style="margin: 7px"
     src="./assets/bootstrap.svg"> &nbsp;
 <img width="45px" 
     height="45px" 
-    style="margin: 5px"
+    style="margin: 7px"
     src="./assets/sass.svg"> &nbsp;
 <img width="45px" 
     height="45px" 
-    style="margin: 5px"
-    src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"> &nbsp;
+    style="margin: 7px"
+    src="./assets/git.svg"> &nbsp;
 <img width="45px" 
     height="45px" 
-    style="margin: 5px"
+    style="margin: 7px"
     src="./assets/javascript.svg"> &nbsp; &nbsp;
 <img width="45px" 
     height="45px" 
-    style="margin: 5px"
+    style="margin: 7px"
     src="./assets/react.svg"> &nbsp;
 <img width="45px" 
     height="45px" 
-    style="margin: 5px"
+    style="margin: 7px"
     src="./assets/nodejs.svg"> &nbsp;
 </div>
 
+<br>
 
-Surfing through layouts, web apps, and delving deep into their development. I'm happy to connect and embrace the new waves of technology and knowledge. I love cooperative work and its unlimited scale. Always paddling forward to be at the right point, in the momentum zone of the coolest code, environment, or AI. Bringing ideas to life through apps.
+**Surfing through layouts, web apps, and delving deep into their development. I'm happy to connect and embrace the new waves of technology and knowledge. I love cooperative work and its unlimited scale. Always paddling forward to be at the right point, in the momentum zone of the coolest code, environment, or AI. Bringing ideas to life through apps.
+
+<br>
+
+## 🌐 Social Media
+
+You can reach me at **tiznadoc@gmail.com**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-tiznado-candia)
+
 
 
 
