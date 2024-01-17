@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Victor Tiznado Candia</h1>
+<h2 align="center">Frontend developer from Pichilemu :ocean:, Chile.</h2>
+
+<h3 align="center">aboutMe</h3>
+
+Surfing through layouts, web apps, and delving deep into their development. I'm happy to connect and embrace the new waves of technology and knowledge. I love cooperative work and its unlimited scale. Always paddling forward to be at the right point, in the momentum zone of the coolest code, environment, or AI. Bringing ideas to life through apps.
+
+
 
 <!--
 **tiznadoc/tiznadoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
