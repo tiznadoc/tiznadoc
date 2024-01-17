@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Victor Tiznado Candia 👋</h1>
 <h2 align="center">a Frontend Developer from Pichilemu, Chile.</h2>
 
+<br>
+
 <div align="center">
 <img width="45px" 
     height="45px" 
@@ -38,16 +40,14 @@
 
 <br>
 
-**Surfing through layouts, web apps, and delving deep into their development. I'm happy to connect and embrace the new waves of technology and knowledge. I love cooperative work and its unlimited scale. Always paddling forward to be at the right point, in the momentum zone of the coolest code, environment, or AI. Bringing ideas to life through apps.
+#### Surfing through layouts, web apps, and delving deep into their development. I'm happy to connect and embrace the new waves of technology and knowledge. I love cooperative work and its unlimited scale. Always paddling forward to be at the right point, in the momentum zone of the coolest code, environment, or AI. Bringing ideas to life through apps.
 
 <br>
 
 ## 🌐 Social Media
 
 You can reach me at **tiznadoc@gmail.com**
-
 <br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-tiznado-candia)
 
 
