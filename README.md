@@ -9,7 +9,7 @@
 <img width="45px" 
     height="45px" 
     style="margin: 5px"
-    src="./assets/Css.svg"> &nbsp;
+    src="./assets/css.svg"> &nbsp;
 <img width="45px" 
     height="45px" 
     style="margin: 5px"
@@ -30,6 +30,10 @@
     height="45px" 
     style="margin: 5px"
     src="./assets/react.svg"> &nbsp;
+<img width="45px" 
+    height="45px" 
+    style="margin: 5px"
+    src="./assets/nodejs.svg"> &nbsp;
 </div>
 
 
