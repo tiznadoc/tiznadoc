@@ -35,11 +35,11 @@
 <img width="45px" 
     height="45px" 
     style="margin: 7px"
-    src="./assets/nodejs.svg"> &nbsp;
+    src="./assets/npm.svg"> &nbsp;
 <img width="45px" 
     height="45px" 
     style="margin: 7px"
-    src="./assets/npm.svg"> &nbsp;
+    src="./assets/nodejs.svg"> &nbsp;
 </div>
 
 <br>
