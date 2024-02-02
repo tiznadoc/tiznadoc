@@ -1,6 +1,6 @@
 
 ## Hi, I'm Victor Tiznado Candia 👋
-### a Frontend Developer from Pichilemu, Chile :chile:.
+### a Frontend Developer from Pichilemu :ocean:, Chile :chile:.
 <br>
 
 <div align="center">
@@ -36,6 +36,10 @@
     height="45px" 
     style="margin: 7px"
     src="./assets/nodejs.svg"> &nbsp;
+<img width="45px" 
+    height="45px" 
+    style="margin: 7px"
+    src="./assets/npm.svg"> &nbsp;
 </div>
 
 <br>
