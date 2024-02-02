@@ -44,7 +44,7 @@
 
 <br>
 
-#### Surfing through the world of web apps, I thrive on delving deep into their development. Currently collaborating on innovative projects with MediaLogic Solutions :chile: and crafting bespoke web apps for individuals and companies. I revel in the cooperative spirit of work and its limitless possibilities. Always paddling forward to catch the right wave, be it in the realm of the coolest code, dynamic environments, or cutting-edge AI. My passion lies in bringing ideas to life through the art of app development. I'm happy to connect and embrace the new waves of technology and knowledge.
+### Surfing through the world of web apps, I thrive on delving deep into their development. Currently collaborating on innovative projects with MediaLogic Solutions :chile: and crafting bespoke web apps for individuals and companies. I revel in the cooperative spirit of work and its limitless possibilities. Always paddling forward to catch the right wave, be it in the realm of the coolest code, dynamic environments, or cutting-edge AI. My passion lies in bringing ideas to life through the art of app development. I'm happy to connect and embrace the new waves of technology and knowledge.
 ## 🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-tiznado-candia)
