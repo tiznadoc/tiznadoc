@@ -8,9 +8,9 @@ I build fast, simple web interfaces and AI-powered automation for solo dreamers 
 Built and documented in the open, from Santiago, Chile.
 
 ## 🛠 Stack
-HTML · CSS · Tailwind · JavaScript · Git
-AI tools: Qwen · DeepSeek · Kimi · Qoder · n8n
-Learning: Python · multi-agent systems
+HTML · CSS · Tailwind · JavaScript · Git  
+AI tools: Qwen · DeepSeek · Kimi · Qoder  
+Learning: Python · multi-agent systems · n8n
 
 ## 🌐 Languages
 Native Spanish (Chile) · Professional English — open to remote frontend work, AI evaluation and bilingual tech projects.
