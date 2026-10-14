@@ -1,19 +1,30 @@
 # Hi, I'm Victor Tiznado Candia 👋
 
-Frontend Developer & AI Automation Builder from Pichilemu 🌊, Chile.
-I build fast, simple web interfaces and AI-powered automation for solo dreamers and small businesses.
+AI Automation Builder & Frontend Developer from Chile 🌊
+I build AI agents, automated workflows and simple, fast websites for solo dreamers and small businesses.
+
+Before code, I spent 15 years as a volunteer firefighter and six years running my own sustainable construction company. I bring that field experience to every tool I build.
 
 ## 💻 Currently building
-**Hammock AI** — crafting AI-powered websites, workflows and agents.
-Built and documented in the open, from Santiago, Chile.
+
+**[Hammock AI](https://github.com/hammockai)** — websites, automations and AI agents. Built and documented in the open.
+
+- **[aiCrew](https://github.com/hammockai/aiCrew)** — a bilingual (EN · ES) crew of four AI agents with specialized system prompts
+- **[hammockai.site](https://hammockai.site)** — the Hammock AI website
 
 ## 🛠 Stack
-HTML · CSS · Tailwind · JavaScript · Git  
-AI tools: Qwen · DeepSeek · Kimi · Qoder  
-Learning: Python · multi-agent systems · n8n
+
+**Web:** HTML · CSS · Sass · Tailwind · JavaScript · React · Git
+**AI:** agent design · system prompts · prompt testing & iteration
+**Models & tools:** Claude · ChatGPT · Gemini · Qwen · DeepSeek · Kimi · Kling · n8n
+**Learning:** Python · multi-agent systems
 
 ## 🌐 Languages
-Native Spanish (Chile) · Professional English — open to remote frontend work, AI evaluation and bilingual tech projects.
+
+Native Spanish · Advanced English (studied and worked in Toronto, Canada)
+
+**Open to:** remote AI training and evaluation, bilingual tech projects and freelance automation work.
 
 ## 📬 Contact
+
 vmtiznadoc@proton.me · [LinkedIn](https://www.linkedin.com/in/victor-tiznado-candia)
