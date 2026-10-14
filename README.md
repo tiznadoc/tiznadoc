@@ -1,6 +1,6 @@
 # Hi, I'm Victor Tiznado Candia 👋
 
-AI Automation Builder & Frontend Developer from Chile 🌊
+AI Automation Builder & Frontend Developer from Chile 🌊  
 I build AI agents, automated workflows and simple, fast websites for solo dreamers and small businesses.
 
 Before code, I spent 15 years as a volunteer firefighter and six years running my own sustainable construction company. I bring that field experience to every tool I build.
@@ -14,10 +14,10 @@ Before code, I spent 15 years as a volunteer firefighter and six years running m
 
 ## 🛠 Stack
 
-**Web:** HTML · CSS · Sass · Tailwind · JavaScript · React · Git
-**AI:** agent design · system prompts · prompt testing & iteration
-**Models & tools:** Claude · ChatGPT · Gemini · Qwen · DeepSeek · Kimi · Kling · n8n
-**Learning:** Python · multi-agent systems
+**Web:** HTML · CSS · Sass · Tailwind · JavaScript · React · Git  
+**AI:** agent design · system prompts · prompt testing & iteration  
+**Models & tools:** Claude · ChatGPT · Gemini · Qwen · DeepSeek · Kimi · Kling  
+**Learning:** Python · n8n · multi-agent systems
 
 ## 🌐 Languages
 
